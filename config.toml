@@ -1,0 +1,4 @@
+baseURL = "http://blog.spiritgene.tech/"
+languageCode = "en-us"
+title = "Welcome to Spiritgene, my personal blog"
+theme = "papermod"
